@@ -1,0 +1,98 @@
+[
+{
+"id" : 1,
+"number" :  2,
+"persons_count" : 4,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 2,
+"number" :  2,
+"persons_count" : 4,
+"around_window" : true,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 3,
+"number" :  5,
+"persons_count" : 4,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 4,
+"number" :  3,
+"persons_count" : 4,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 5,
+"number" :  7,
+"persons_count" : 3,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 6,
+"number" :  8,
+"persons_count" : 8,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 7,
+"number" :  6,
+"persons_count" : 4,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+},
+{
+"id" : 8,
+"number" :  9,
+"persons_count" : 4,
+"around_window" : false,
+"images": [
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www...",
+"url" : "https//www..."
+]
+}
+]

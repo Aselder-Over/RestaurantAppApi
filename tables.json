@@ -5,10 +5,10 @@
 "persons_count" : 4,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 },
 {
@@ -17,10 +17,10 @@
 "persons_count" : 4,
 "around_window" : true,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 },
 {
@@ -29,10 +29,10 @@
 "persons_count" : 4,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 },
 {
@@ -41,10 +41,10 @@
 "persons_count" : 4,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 },
 {
@@ -65,10 +65,10 @@
 "persons_count" : 8,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 },
 {
@@ -77,10 +77,10 @@
 "persons_count" : 4,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 },
 {
@@ -89,10 +89,10 @@
 "persons_count" : 4,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." },
+  { "url" : "https//www..." }
 ]
 }
 ]

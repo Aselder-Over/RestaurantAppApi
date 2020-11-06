@@ -1,0 +1,47 @@
+[
+  {
+"id" : 1,
+"categoryName" : "Пицыы"
+"items" : [
+  {
+  "id" : 11,
+  "name" : "Пицца Маргарита",
+  "image": "",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   }, {
+   "id" : 11,
+  "name" : "Пицца Маргарита",
+  "image": "",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },
+   {
+   "id" : 11,
+  "name" : "Пицца Маргарита",
+  "image": "",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },
+   {
+   "id" : 11,
+  "name" : "Пицца Маргарита",
+  "image": "",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   }
+]
+}
+]

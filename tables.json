@@ -4,6 +4,7 @@
 "number" :  2,
 "persons_count" : 4,
 "around_window" : false,
+"veranda" : false,
 "images": [
   { "url" : "https//www..." },
   { "url" : "https//www..." },
@@ -16,6 +17,7 @@
 "number" :  2,
 "persons_count" : 4,
 "around_window" : true,
+"veranda" : false,
 "images": [
   { "url" : "https//www..." },
   { "url" : "https//www..." },
@@ -27,6 +29,7 @@
 "id" : 3,
 "number" :  5,
 "persons_count" : 4,
+"veranda" : false,
 "around_window" : false,
 "images": [
   { "url" : "https//www..." },
@@ -40,6 +43,7 @@
 "number" :  3,
 "persons_count" : 4,
 "around_window" : false,
+"veranda" : false,
 "images": [
   { "url" : "https//www..." },
   { "url" : "https//www..." },
@@ -52,6 +56,7 @@
 "number" :  7,
 "persons_count" : 3,
 "around_window" : false,
+"veranda" : false,
 "images": [
   { "url" : "https//www...", }
   { "url" : "https//www...", }
@@ -63,6 +68,7 @@
 "id" : 6,
 "number" :  8,
 "persons_count" : 8,
+"veranda" : false,  
 "around_window" : false,
 "images": [
   { "url" : "https//www..." },
@@ -76,6 +82,7 @@
 "number" :  6,
 "persons_count" : 4,
 "around_window" : false,
+"veranda" : false,
 "images": [
   { "url" : "https//www..." },
   { "url" : "https//www..." },
@@ -86,6 +93,7 @@
 {
 "id" : 8,
 "number" :  9,
+"veranda" : false,
 "persons_count" : 4,
 "around_window" : false,
 "images": [

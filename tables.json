@@ -53,10 +53,10 @@
 "persons_count" : 3,
 "around_window" : false,
 "images": [
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www...",
-"url" : "https//www..."
+  { "url" : "https//www...", }
+  { "url" : "https//www...", }
+  { "url" : "https//www...", }
+  { "url" : "https//www..."  }
 ]
 },
 {

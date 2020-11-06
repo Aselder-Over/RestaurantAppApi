@@ -140,7 +140,7 @@
   "categoryId" : 2
    }
 ]
-},
+},{
 "id" : 3,
 "categoryName" : "Салаты",
 "items":[
@@ -247,7 +247,7 @@
   "categoryId" : 3
    }
 ]
-},
+},{
 "id" : 4,
 "categoryName" : "Мясные блюда",
 "items":[
@@ -327,7 +327,7 @@
   "categoryId" : 4
    }
 ]
-},
+},{
 "id" : 5,
 "categoryName" : "Чай",
 "items":[
@@ -416,7 +416,7 @@
   "categoryId" : 5
    }
 ]
-},
+},{
 "id" : 6,
 "categoryName" : "Кофе",
 "items":[
@@ -496,7 +496,7 @@
   "categoryId" : 6
    }
 ]
-},
+},{
 "id" : 7,
 "categoryName" : "Коктейли",
 "items":[

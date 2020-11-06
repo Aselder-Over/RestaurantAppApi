@@ -1,0 +1,42 @@
+{
+"cart_data" : {
+"items" : [
+{
+"id" : 1,
+"image" : "",
+"name" : "Суп куриный",
+"description" : "",
+"price" : "220",
+"old_price" : null,
+"quantity" : 3,
+"category_id" : 3
+},{
+"id" : 2,
+"image" : "",
+"name" : "Пицца Ассорти",
+"description" : "",
+"price" : "480",
+"old_price" : "500",
+"quantity" : 2,
+"category_id" : 1
+},{
+"id" : 3,
+"image" : "",
+"name" : "Коктейль молочный",
+"description" : "",
+"price" : "200",
+"old_price" : null,
+"quantity" : 3,
+"category_id" : 9
+}
+],
+"totalPrice": "2000"
+},
+"person_count" : 3,
+"table" : {
+"tableName" : "Стол 1",
+"id" : 2
+},
+"time"
+}
+}

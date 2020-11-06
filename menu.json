@@ -41,7 +41,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 1
-   },
+   },{
   "id" : 14,
   "name" : "Пицца Сладкая",
   "image": "",
@@ -50,7 +50,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 1
-   },
+   },{
   "id" : 15,
   "name" : "Пицца Цезарь",
   "image": "",
@@ -59,7 +59,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 1
-   },
+   },{
   "id" : 16,
   "name" : "Пицца Мексика",
   "image": "",
@@ -68,7 +68,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 1
-   },
+   },{
   "id" : 17,
   "name" : "Пицца Куриная с грибами",
   "image": "",
@@ -111,7 +111,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 2
-   },
+   },{
   "id" : 22,
   "name" : "Суп Куриный",
   "image": "",
@@ -120,7 +120,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 2
-   },
+   },{
   "id" : 23,
   "name" : "Суп Гороховый",
   "image": "",
@@ -129,7 +129,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 2
-   },
+   },{
   "id" : 25,
   "name" : "Крем-суп сырный",
   "image": "",
@@ -182,7 +182,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 30,
   "name" : "Салат Неженка",
   "image": "",
@@ -191,7 +191,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 31,
   "name" : "Салат Самали",
   "image": "",
@@ -200,7 +200,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 32,
   "name" : "Салат Восточный",
   "image": "",
@@ -209,7 +209,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 33,
   "name" : "Салат Мексиканский",
   "image": "",
@@ -218,7 +218,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 33,
   "name" : "Салат Каспийский",
   "image": "",
@@ -227,7 +227,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 33,
   "name" : "Салат Марго",
   "image": "",
@@ -236,7 +236,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 3
-   },
+   },{
   "id" : 33,
   "name" : "Салат Хрустящий",
   "image": "",
@@ -289,7 +289,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 4
-   },
+   },{
   "id" : 38,
   "name" : "Филе куриное",
   "image": "",
@@ -298,7 +298,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 4
-   },
+   },{
   "id" : 39,
   "name" : "Люля бараньи",
   "image": "",
@@ -307,7 +307,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 4
-   },
+   },{
   "id" : 40,
   "name" : "Люля куриные",
   "image": "",
@@ -316,7 +316,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 4
-   },
+   },{
   "id" : 41,
   "name" : "Люля говяжьи",
   "image": "",
@@ -369,7 +369,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 5
-   },
+   },{
   "id" : 46,
   "name" : "Чай облепиховый",
   "image": "",
@@ -378,7 +378,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 5
-   },
+   },{
   "id" : 47,
   "name" : "Наглый фрукт",
   "image": "",
@@ -387,7 +387,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 5
-   },
+   },{
   "id" : 48,
   "name" : "Черный пуэр",
   "image": "",
@@ -396,7 +396,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 5
-   },
+   },{
   "id" : 49,
   "name" : "Ягодный чай",
   "image": "",
@@ -405,7 +405,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 5
-   },
+   },{
   "id" : 49,
   "name" : "Молочный лун",
   "image": "",
@@ -458,7 +458,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 6
-   },
+   },{
   "id" : 54,
   "name" : "Флэт Уайт",
   "image": "",
@@ -467,7 +467,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 6
-   },
+   },{
   "id" : 55,
   "name" : "Латте с карамельным сиропом",
   "image": "",
@@ -476,7 +476,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 6
-   },
+   },{
   "id" : 15,
   "name" : "Латте на кокосовом молоке",
   "image": "",
@@ -485,7 +485,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 6
-   },
+   },{
   "id" : 56,
   "name" : "Капучино на кокосовом молоке",
   "image": "",
@@ -538,7 +538,7 @@
   "descirption" : "",
   "rating" : null,
   "categoryId" : 7
-   },
+   },{
   "id" : 61,
   "name" : "Клубника-Малина",
   "image": "",

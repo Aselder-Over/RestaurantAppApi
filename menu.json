@@ -2,6 +2,7 @@
   {
 "id" : 1,
 "categoryName" : "Пиццы",
+"categoryIcon": "",
 "items":[
   {
   "id" : 10,
@@ -82,6 +83,7 @@
 },{
   "id" : 2,
 "categoryName" : "Супы",
+"categoryIcon": "",
 "items":[
   {
   "id" : 18,
@@ -143,6 +145,7 @@
 },{
 "id" : 3,
 "categoryName" : "Салаты",
+"categoryIcon": "",
 "items":[
   {
   "id" : 26,
@@ -250,6 +253,7 @@
 },{
 "id" : 4,
 "categoryName" : "Мясные блюда",
+"categoryIcon": "",
 "items":[
   {
   "id" : 34,
@@ -330,6 +334,7 @@
 },{
 "id" : 5,
 "categoryName" : "Чай",
+"categoryIcon": "",
 "items":[
   {
   "id" : 42,
@@ -419,6 +424,7 @@
 },{
 "id" : 6,
 "categoryName" : "Кофе",
+"categoryIcon": "",
 "items":[
   {
   "id" : 50,
@@ -499,6 +505,7 @@
 },{
 "id" : 7,
 "categoryName" : "Коктейли",
+"categoryIcon": "",
 "items":[
   {
   "id" : 57,
